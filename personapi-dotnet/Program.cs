@@ -16,6 +16,7 @@ builder.Services.AddDbContext<PersonaDbContext>(options =>
 
 
 builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddControllers();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IPersonaRepository, PersonaRepository>();
@@ -30,6 +31,15 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
+}
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/swagger/v1/swagger.json", "My Test Api v1");
+    });
 }
 app.UseStaticFiles();
 

@@ -256,3 +256,4 @@ C:\JaviSanDia\Javeriana\7mo Semestre\ARQUITECTURA DE SW\Lab 1 New\personapi-dotn
 C:\JaviSanDia\Javeriana\7mo Semestre\ARQUITECTURA DE SW\Lab 1 New\personapi-dotnet\personapi-dotnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\JaviSanDia\Javeriana\7mo Semestre\ARQUITECTURA DE SW\Lab 1 New\personapi-dotnet\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.MvcApplicationPartsAssemblyInfo.cs
 C:\JaviSanDia\Javeriana\7mo Semestre\ARQUITECTURA DE SW\Lab 1 New\personapi-dotnet\personapi-dotnet\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\JaviSanDia\Javeriana\7mo Semestre\ARQUITECTURA DE SW\Lab 1 New\personapi-dotnet\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.sourcelink.json
