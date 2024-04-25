@@ -146,7 +146,8 @@
               "RelativeToolTip": "personapi-dotnet\\Controllers\\Interfaces\\ITelefonoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T02:14:35.797Z"
+              "WhenOpened": "2024-04-25T02:14:35.797Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -158,7 +159,8 @@
               "RelativeToolTip": "personapi-dotnet\\Controllers\\Interfaces\\IProfesionRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T02:14:34.055Z"
+              "WhenOpened": "2024-04-25T02:14:34.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -170,7 +172,8 @@
               "RelativeToolTip": "personapi-dotnet\\Controllers\\Interfaces\\IEstudioRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T02:10:10.09Z"
+              "WhenOpened": "2024-04-25T02:10:10.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -182,7 +185,8 @@
               "RelativeToolTip": "personapi-dotnet\\Repositories\\ProfesionRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAwwAUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T01:08:58.85Z"
+              "WhenOpened": "2024-04-25T01:08:58.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -194,7 +198,8 @@
               "RelativeToolTip": "personapi-dotnet\\Controllers\\API\\APIPersonaController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T00:48:55.363Z"
+              "WhenOpened": "2024-04-25T00:48:55.363Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -204,7 +209,7 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Program.cs",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Program.cs",
               "RelativeToolTip": "personapi-dotnet\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T22:49:44.12Z",
               "EditorCaption": ""
@@ -219,7 +224,8 @@
               "RelativeToolTip": "personapi-dotnet\\Controllers\\Interfaces\\IPersonaRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T02:18:26.447Z"
+              "WhenOpened": "2024-04-25T02:18:26.447Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -231,7 +237,8 @@
               "RelativeToolTip": "personapi-dotnet\\Repositories\\PersonaRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T01:03:54.632Z"
+              "WhenOpened": "2024-04-25T01:03:54.632Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -243,7 +250,8 @@
               "RelativeToolTip": "personapi-dotnet\\Repositories\\TelefonoRepository.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAiwCEAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T02:04:49.606Z"
+              "WhenOpened": "2024-04-25T02:04:49.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -255,7 +263,8 @@
               "RelativeToolTip": "personapi-dotnet\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-25T02:12:54.613Z"
+              "WhenOpened": "2024-04-25T02:12:54.613Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -267,7 +276,8 @@
               "RelativeToolTip": "personapi-dotnet\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T11:59:03.179Z"
+              "WhenOpened": "2024-04-23T11:59:03.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -279,7 +289,8 @@
               "RelativeToolTip": "personapi-dotnet\\personapi-dotnet.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-25T02:10:31.07Z"
+              "WhenOpened": "2024-04-25T02:10:31.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -289,9 +300,10 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Repositories\\EstudioRepository.cs",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Repositories\\EstudioRepository.cs",
               "RelativeToolTip": "personapi-dotnet\\Repositories\\EstudioRepository.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAA5wAUAAAA3AAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T01:09:15.513Z"
+              "WhenOpened": "2024-04-25T01:09:15.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -301,7 +313,6 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Repositories\\Interfaces\\IPersonaRepository.cs",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Repositories\\Interfaces\\IPersonaRepository.cs",
               "RelativeToolTip": "personapi-dotnet\\Repositories\\Interfaces\\IPersonaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T02:03:45.564Z"
             },
@@ -313,7 +324,6 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Repositories\\Interfaces\\IProfesionRepository.cs",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Repositories\\Interfaces\\IProfesionRepository.cs",
               "RelativeToolTip": "personapi-dotnet\\Repositories\\Interfaces\\IProfesionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T02:04:25.654Z"
             },
@@ -325,7 +335,6 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Repositories\\Interfaces\\ITelefonoRepository.cs",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Repositories\\Interfaces\\ITelefonoRepository.cs",
               "RelativeToolTip": "personapi-dotnet\\Repositories\\Interfaces\\ITelefonoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T02:04:37.916Z"
             },
@@ -337,7 +346,6 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Repositories\\Interfaces\\IEstudioRepository.cs",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Repositories\\Interfaces\\IEstudioRepository.cs",
               "RelativeToolTip": "personapi-dotnet\\Repositories\\Interfaces\\IEstudioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T02:04:04.452Z"
             },
@@ -351,7 +359,8 @@
               "RelativeToolTip": "personapi-dotnet\\Models\\Entities\\Estudio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T11:59:42.891Z"
+              "WhenOpened": "2024-04-23T11:59:42.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -363,7 +372,8 @@
               "RelativeToolTip": "personapi-dotnet\\Models\\Entities\\Persona.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:23:01.145Z"
+              "WhenOpened": "2024-04-23T12:23:01.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -373,9 +383,10 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Controllers\\API\\APITelefonoController.cs",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Controllers\\API\\APITelefonoController.cs",
               "RelativeToolTip": "personapi-dotnet\\Controllers\\API\\APITelefonoController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAxAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T00:54:08.574Z"
+              "WhenOpened": "2024-04-25T00:54:08.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -387,7 +398,8 @@
               "RelativeToolTip": "personapi-dotnet\\Controllers\\API\\APIEstudioController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T00:49:51.998Z"
+              "WhenOpened": "2024-04-25T00:49:51.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -399,7 +411,8 @@
               "RelativeToolTip": "personapi-dotnet\\Controllers\\API\\APIProfesionController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T00:49:26.398Z"
+              "WhenOpened": "2024-04-25T00:49:26.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -409,9 +422,10 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Controllers\\Views\\TelefonoesController.cs",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Controllers\\Views\\TelefonoesController.cs",
               "RelativeToolTip": "personapi-dotnet\\Controllers\\Views\\TelefonoesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:03:38.783Z"
+              "WhenOpened": "2024-04-23T12:03:38.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -421,9 +435,10 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Controllers\\Views\\EstudiosController.cs",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Controllers\\Views\\EstudiosController.cs",
               "RelativeToolTip": "personapi-dotnet\\Controllers\\Views\\EstudiosController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:02:49.021Z"
+              "WhenOpened": "2024-04-23T12:02:49.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -433,9 +448,10 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Controllers\\Views\\PersonasController.cs",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Controllers\\Views\\PersonasController.cs",
               "RelativeToolTip": "personapi-dotnet\\Controllers\\Views\\PersonasController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwDsAAAAmAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:01:00.265Z"
+              "WhenOpened": "2024-04-23T12:01:00.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -447,7 +463,8 @@
               "RelativeToolTip": "personapi-dotnet\\Controllers\\Views\\ProfesionsController.cs",
               "ViewState": "AQIAAHwAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:01:53.655Z"
+              "WhenOpened": "2024-04-23T12:01:53.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -457,9 +474,10 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Views\\Personas\\Create.cshtml",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Views\\Personas\\Create.cshtml",
               "RelativeToolTip": "personapi-dotnet\\Views\\Personas\\Create.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAvAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwAAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T12:38:55.289Z"
+              "WhenOpened": "2024-04-23T12:38:55.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -471,7 +489,8 @@
               "RelativeToolTip": "personapi-dotnet\\Views\\Personas\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T12:05:25.451Z"
+              "WhenOpened": "2024-04-23T12:05:25.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -483,7 +502,8 @@
               "RelativeToolTip": "personapi-dotnet\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAkwB8AAAB6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T12:12:58.69Z"
+              "WhenOpened": "2024-04-23T12:12:58.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -493,9 +513,10 @@
               "RelativeDocumentMoniker": "personapi-dotnet\\Views\\Estudios\\Index.cshtml",
               "ToolTip": "C:\\JaviSanDia\\Javeriana\\7mo Semestre\\ARQUITECTURA DE SW\\Lab 1 New\\personapi-dotnet\\personapi-dotnet\\Views\\Estudios\\Index.cshtml",
               "RelativeToolTip": "personapi-dotnet\\Views\\Estudios\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAIBJwCcAAABFAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAIBZwCcAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T12:34:53.118Z"
+              "WhenOpened": "2024-04-23T12:34:53.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -507,7 +528,8 @@
               "RelativeToolTip": "personapi-dotnet\\Views\\Estudios\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T12:03:52.168Z"
+              "WhenOpened": "2024-04-23T12:03:52.168Z",
+              "EditorCaption": ""
             }
           ]
         }
